@@ -1,0 +1,5 @@
+{
+  "name": "Mood Tracker",
+  "description": "A simple mood tracker application with a history chart.",
+  "requestFramePermissions": []
+}
